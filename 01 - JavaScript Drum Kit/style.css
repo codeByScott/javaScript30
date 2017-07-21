@@ -48,3 +48,11 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+
+.credit {
+  color: #fefefe;
+}
+
+.credit p {
+  margin: 50px;
+}
